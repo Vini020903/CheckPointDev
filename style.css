@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+.corpo {
+    background-color: #707070;
+    
+}
+
+.titulo {
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.imagem2 {
+    
+    width: 50px; 
+    height: 50px;
+    
+}
+
+.texto {
+    background-color: lightgreen;
+}
+.texto1 {
+    text-align: right;
+    
+}
+
+.texto2 {
+    text-align: left;     
+}
+
+.imagem3{
+    text-align: right;
+    
+}
+
+footer{
+    color: red;
+    font-size: 15px;
+    text-align: center; 
+    
+
+}
